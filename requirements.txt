@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+python-docx
+fpdf
+python-docx
+openpyxl
